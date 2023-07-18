@@ -1,0 +1,8 @@
+cd ~/.ssh
+ls
+ssh-keygen -o -t rsa -C "prateekchaudhary7805@gmail.com"
+enter
+enter
+enter
+cat id_rsa.pub
+
